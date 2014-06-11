@@ -1,0 +1,9 @@
+{
+    "name": "text2meo",
+    "description": "It takes input from text files to create playlists for the MEO Music application",
+    "version": "0.1",
+    "private": true,
+    "dependencies": {
+    	"httpsync": "*"
+    }
+}
