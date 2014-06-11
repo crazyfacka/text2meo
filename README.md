@@ -5,7 +5,7 @@ It takes input from text files to create playlists for the MEO Music application
 
 By using this application you might violate the Terms of Service of MEO Music. This is based on an undocumented API to create the playlists and add the respective tracks.
 
-As it is somewhat obvious, the author does not accept any liability for any loss regarding these services or for burning down your house from the use of this tool. Use it (and improve it!) at your own risk.
+As it is somewhat obvious, the author does not accept any liability for any loss regarding these services nor for burning down your house from the use of this tool. Use it (and improve it!) at your own risk.
 
 Building text2meo
 =================
